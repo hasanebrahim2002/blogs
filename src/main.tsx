@@ -10,38 +10,33 @@ import BlogDetails from "./pages/BlogDetails/BlogDetails";
 import Newsletter from "./pages/Newsletter/Newsletter";
 import About from "./pages/About/About";
 import Projects from "./pages/Projects/Projects";
-const routes = createHashRouter(
-  [
-    {
-      element: <Layouts />,
-      children: [
-        {
-          path: "/",
-          element: <Home />,
-        },
-        {
-          path: "/newsletter",
-          element: <Newsletter />,
-        },
-        {
-          path: "/about",
-          element: <About />,
-        },
-        {
-          path: "/projects",
-          element: <Projects />,
-        },
-        {
-          path: "/blog/:id",
-          element: <BlogDetails />,
-        },
-      ],
-    },
-  ],
+const routes = createHashRouter([
   {
-    basename: "/blogs",
+    element: <Layouts />,
+    children: [
+      {
+        path: "/",
+        element: <Home />,
+      },
+      {
+        path: "/newsletter",
+        element: <Newsletter />,
+      },
+      {
+        path: "/about",
+        element: <About />,
+      },
+      {
+        path: "/projects",
+        element: <Projects />,
+      },
+      {
+        path: "/blog/:id",
+        element: <BlogDetails />,
+      },
+    ],
   },
-);
+]);
 createRoot(document.getElementById("root")!).render(
   <StrictMode>
     <Provider store={store}>
