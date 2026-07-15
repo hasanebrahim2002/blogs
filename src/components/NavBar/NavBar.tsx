@@ -25,6 +25,7 @@ const NavBar = ({ logo, links }: NavProps) => {
                   className={({ isActive }) =>
                     isActive ? "font-bold underline" : ""
                   }
+                  onClick={() => setShow(false)}
                 >
                   {link.content}
                 </NavLink>
