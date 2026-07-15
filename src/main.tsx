@@ -1,7 +1,7 @@
 import { StrictMode } from "react";
 import { createRoot } from "react-dom/client";
 import "./index.css";
-import { createBrowserRouter, RouterProvider } from "react-router-dom";
+import { createHashRouter, RouterProvider } from "react-router-dom";
 import Home from "./pages/Home/Home";
 import Layouts from "./Layouts/Layouts";
 import { Provider } from "react-redux";
@@ -10,7 +10,7 @@ import BlogDetails from "./pages/BlogDetails/BlogDetails";
 import Newsletter from "./pages/Newsletter/Newsletter";
 import About from "./pages/About/About";
 import Projects from "./pages/Projects/Projects";
-const routes = createBrowserRouter(
+const routes = createHashRouter(
   [
     {
       element: <Layouts />,
