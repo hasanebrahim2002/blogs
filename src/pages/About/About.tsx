@@ -1,14 +1,12 @@
 const About = () => {
   return (
     <div className="pt-10">
-      {/* Hero */}
       <section className="border-y border-[#EAECF0] dark:border-[#1D2939] py-14">
         <h1 className="text-5xl md:text-7xl lg:text-[120px] font-bold text-center uppercase leading-none">
           ABOUT US
         </h1>
       </section>
 
-      {/* Intro */}
       <section className="grid grid-cols-1 lg:grid-cols-2 gap-14 py-20">
         <div>
           <p className="text-sm font-semibold text-[#6941C6] uppercase">
@@ -36,7 +34,6 @@ const About = () => {
         </div>
       </section>
 
-      {/* Stats */}
       <section className="grid grid-cols-2 lg:grid-cols-4 gap-6 py-10 ">
         <div className="border border-[#EAECF0] rounded-xl p-8">
           <h3 className="text-5xl font-bold">20+</h3>
@@ -65,10 +62,9 @@ const About = () => {
         </div>
       </section>
 
-      {/* Mission */}
       <section className="py-24 grid grid-cols-1 lg:grid-cols-2 gap-16 items-center">
         <img
-          src="/images/blog1.jpg"
+          src="/blogs/images/blog1.jpg"
           className="rounded-xl object-cover h-500 w-full"
           alt=""
         />
@@ -89,8 +85,6 @@ const About = () => {
           </p>
         </div>
       </section>
-
-      {/* Values */}
 
       <section className="py-20">
         <h2 className="text-3xl font-bold mb-12">What we believe</h2>
@@ -114,15 +108,12 @@ const About = () => {
 
           <div className="border border-[#EAECF0] rounded-xl p-8 hover:-translate-y-2 duration-300">
             <h3 className="font-bold text-xl mb-4">Continuous Learning</h3>
-
             <p className="text-[#667085] dark:text-[#C0C5D0]">
               Technology changes every day, and so do we.
             </p>
           </div>
         </div>
       </section>
-
-      {/* CTA */}
 
       <section className="border-t border-[#EAECF0] py-24 text-center">
         <h2 className="text-5xl font-bold">Join our journey.</h2>

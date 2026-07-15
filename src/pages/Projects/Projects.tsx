@@ -7,7 +7,7 @@ const Projects = () => {
         <div className="grid grid-cols-1 lg:grid-cols-12 gap-8">
           <div className="lg:col-span-8 relative overflow-hidden rounded-2xl group cursor-pointer">
             <img
-              src="/images/blog1.jpg"
+              src="/blogs/images/blog1.jpg"
               className="w-full h-900 object-cover group-hover:scale-105 duration-500"
               alt=""
             />
@@ -33,7 +33,7 @@ const Projects = () => {
           <div className="lg:col-span-4 flex flex-col gap-8">
             <div className="rounded-2xl overflow-hidden border border-[#EAECF0] dark:border-[#1D2939]">
               <img
-                src="/images/blog2.jpg"
+                src="/blogs/images/blog2.jpg"
                 className="w-full object-cover"
                 alt=""
               />
@@ -47,7 +47,7 @@ const Projects = () => {
 
             <div className="rounded-2xl overflow-hidden border border-[#EAECF0] dark:border-[#1D2939]">
               <img
-                src="/images/blog3.jpg"
+                src="/blogs/images/blog3.jpg"
                 className="w-full object-cover"
                 alt=""
               />
@@ -66,7 +66,7 @@ const Projects = () => {
         <div className="grid md:grid-cols-2 gap-8">
           <div className="rounded-2xl overflow-hidden">
             <img
-              src="/images/blog4.jpg"
+              src="/blogs/images/blog4.jpg"
               className="w-full h-420 object-cover"
               alt=""
             />
