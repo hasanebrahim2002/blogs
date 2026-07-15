@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "image": "/images/blog5.jpg",
+    "image": "/blogs/images/blog5.jpg",
     "history": "Alec Whitten • 1 Jan 2023",
     "title": "Bill Walsh leadership lessons",
     "description": "Like to know the secrets of transforming a 2-14 team into a 3x Super Bowl winning Dynasty?",
@@ -22,55 +22,55 @@
 
     "sections": [
       {
-        "image": "/images/section16.webp",
+        "image": "/blogs/images/section16.webp",
         "title": "Definition: A grid is made up of columns, gutters, and margins that provide a structure for the layout of elements on a page.",
         "head": "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
         "description": "Modular grid extends the column grid further by adding rows to it. This intersection of columns and rows make up modules to which elements and content are aligned. Modular grids are great for ecommerce and listing pages, as rows are repeatable to accommodate browsing."
       },
       {
-        "image": "/images/section14.webp",
+        "image": "/blogs/images/section14.webp",
         "title": "Definition: A grid is made up of columns, gutters, and margins that provide a structure for the layout of elements on a page.",
         "head": "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
         "description": "Modular grid extends the column grid further by adding rows to it. This intersection of columns and rows make up modules to which elements and content are aligned. Modular grids are great for ecommerce and listing pages, as rows are repeatable to accommodate browsing."
       },
       {
-        "image": "/images/section3.webp",
+        "image": "/blogs/images/section3.webp",
         "title": "Definition: A grid is made up of columns, gutters, and margins that provide a structure for the layout of elements on a page.",
         "head": "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
         "description": "Modular grid extends the column grid further by adding rows to it. This intersection of columns and rows make up modules to which elements and content are aligned. Modular grids are great for ecommerce and listing pages, as rows are repeatable to accommodate browsing."
       },
       {
-        "image": "/images/section4.webp",
+        "image": "/blogs/images/section4.webp",
         "title": "Definition: A grid is made up of columns, gutters, and margins that provide a structure for the layout of elements on a page.",
         "head": "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
         "description": "Modular grid extends the column grid further by adding rows to it. This intersection of columns and rows make up modules to which elements and content are aligned. Modular grids are great for ecommerce and listing pages, as rows are repeatable to accommodate browsing."
       },
       {
-        "image": "/images/section19.webp",
+        "image": "/blogs/images/section19.webp",
         "title": "Definition: A grid is made up of columns, gutters, and margins that provide a structure for the layout of elements on a page.",
         "head": "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
         "description": "Modular grid extends the column grid further by adding rows to it. This intersection of columns and rows make up modules to which elements and content are aligned. Modular grids are great for ecommerce and listing pages, as rows are repeatable to accommodate browsing."
       },
       {
-        "image": "/images/section6.webp",
+        "image": "/blogs/images/section6.webp",
         "title": "Definition: A grid is made up of columns, gutters, and margins that provide a structure for the layout of elements on a page.",
         "head": "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
         "description": "Modular grid extends the column grid further by adding rows to it. This intersection of columns and rows make up modules to which elements and content are aligned. Modular grids are great for ecommerce and listing pages, as rows are repeatable to accommodate browsing."
       },
       {
-        "image": "/images/section6.webp",
+        "image": "/blogs/images/section6.webp",
         "title": "Definition: A grid is made up of columns, gutters, and margins that provide a structure for the layout of elements on a page.",
         "head": "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
         "description": "Modular grid extends the column grid further by adding rows to it. This intersection of columns and rows make up modules to which elements and content are aligned. Modular grids are great for ecommerce and listing pages, as rows are repeatable to accommodate browsing."
       },
       {
-        "image": "/images/section18.webp",
+        "image": "/blogs/images/section18.webp",
         "title": "Definition: A grid is made up of columns, gutters, and margins that provide a structure for the layout of elements on a page.",
         "head": "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
         "description": "Modular grid extends the column grid further by adding rows to it. This intersection of columns and rows make up modules to which elements and content are aligned. Modular grids are great for ecommerce and listing pages, as rows are repeatable to accommodate browsing."
       },
       {
-        "image": "/images/section19.webp",
+        "image": "/blogs/images/section19.webp",
         "title": "Definition: A grid is made up of columns, gutters, and margins that provide a structure for the layout of elements on a page.",
         "head": "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
         "description": "Modular grid extends the column grid further by adding rows to it. This intersection of columns and rows make up modules to which elements and content are aligned. Modular grids are great for ecommerce and listing pages, as rows are repeatable to accommodate browsing."
@@ -79,7 +79,7 @@
   },
   {
     "id": 2,
-    "image": "/images/blog6.jpg",
+    "image": "/blogs/images/blog6.jpg",
     "history": "Demi WIlkinson • 1 Jan 2023",
     "title": "PM mental models",
     "description": "Mental models are simple expressions of complex processes or relationships.",
@@ -104,19 +104,19 @@
     ],
     "sections": [
       {
-        "image": "public/images/section11.webp",
+        "image": "/blogs/public/images/section11.webp",
         "title": "Definition: A grid is made up of columns, gutters, and margins that provide a structure for the layout of elements on a page.",
         "head": "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
         "description": "Modular grid extends the column grid further by adding rows to it. This intersection of columns and rows make up modules to which elements and content are aligned. Modular grids are great for ecommerce and listing pages, as rows are repeatable to accommodate browsing."
       },
       {
-        "image": "public/images/section20.webp",
+        "image": "/blogs/public/images/section20.webp",
         "title": "Definition: A grid is made up of columns, gutters, and margins that provide a structure for the layout of elements on a page.",
         "head": "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
         "description": "Modular grid extends the column grid further by adding rows to it. This intersection of columns and rows make up modules to which elements and content are aligned. Modular grids are great for ecommerce and listing pages, as rows are repeatable to accommodate browsing."
       },
       {
-        "image": "public/images/section10.webp",
+        "image": "/blogs/public/images/section10.webp",
         "title": "Definition: A grid is made up of columns, gutters, and margins that provide a structure for the layout of elements on a page.",
         "head": "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
         "description": "Modular grid extends the column grid further by adding rows to it. This intersection of columns and rows make up modules to which elements and content are aligned. Modular grids are great for ecommerce and listing pages, as rows are repeatable to accommodate browsing."
@@ -125,7 +125,7 @@
   },
   {
     "id": 3,
-    "image": "/images/blog7.jpg",
+    "image": "/blogs/images/blog7.jpg",
     "history": "Candice Wu • 1 Jan 2023",
     "title": "What is Wireframing?",
     "description": "Introduction to Wireframing and its Principles. Learn from the best in the industry.",
@@ -145,19 +145,19 @@
     ],
     "sections": [
       {
-        "image": "/images/section3.webp",
+        "image": "/blogs/images/section3.webp",
         "title": "Definition: A grid is made up of columns, gutters, and margins that provide a structure for the layout of elements on a page.",
         "head": "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
         "description": "Modular grid extends the column grid further by adding rows to it. This intersection of columns and rows make up modules to which elements and content are aligned. Modular grids are great for ecommerce and listing pages, as rows are repeatable to accommodate browsing."
       },
       {
-        "image": "/images/section19.webp",
+        "image": "/blogs/images/section19.webp",
         "title": "Definition: A grid is made up of columns, gutters, and margins that provide a structure for the layout of elements on a page.",
         "head": "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
         "description": "Modular grid extends the column grid further by adding rows to it. This intersection of columns and rows make up modules to which elements and content are aligned. Modular grids are great for ecommerce and listing pages, as rows are repeatable to accommodate browsing."
       },
       {
-        "image": "/images/section15.webp",
+        "image": "/blogs/images/section15.webp",
         "title": "Definition: A grid is made up of columns, gutters, and margins that provide a structure for the layout of elements on a page.",
         "head": "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
         "description": "Modular grid extends the column grid further by adding rows to it. This intersection of columns and rows make up modules to which elements and content are aligned. Modular grids are great for ecommerce and listing pages, as rows are repeatable to accommodate browsing."
@@ -166,7 +166,7 @@
   },
   {
     "id": 4,
-    "image": "/images/blog8.jpg",
+    "image": "/blogs/images/blog8.jpg",
     "history": "Natali Craig • 1 Jan 2023",
     "title": "How collaboration makes us better designers",
     "description": "Collaboration can make our teams stronger, and our individual designs better.",
@@ -186,19 +186,19 @@
     ],
     "sections": [
       {
-        "image": "/images/section4.webp",
+        "image": "/blogs/images/section4.webp",
         "title": "Definition: A grid is made up of columns, gutters, and margins that provide a structure for the layout of elements on a page.",
         "head": "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
         "description": "Modular grid extends the column grid further by adding rows to it. This intersection of columns and rows make up modules to which elements and content are aligned. Modular grids are great for ecommerce and listing pages, as rows are repeatable to accommodate browsing."
       },
       {
-        "image": "/images/section11.webp",
+        "image": "/blogs/images/section11.webp",
         "title": "Definition: A grid is made up of columns, gutters, and margins that provide a structure for the layout of elements on a page.",
         "head": "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
         "description": "Modular grid extends the column grid further by adding rows to it. This intersection of columns and rows make up modules to which elements and content are aligned. Modular grids are great for ecommerce and listing pages, as rows are repeatable to accommodate browsing."
       },
       {
-        "image": "/images/section19.webp",
+        "image": "/blogs/images/section19.webp",
         "title": "Definition: A grid is made up of columns, gutters, and margins that provide a structure for the layout of elements on a page.",
         "head": "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
         "description": "Modular grid extends the column grid further by adding rows to it. This intersection of columns and rows make up modules to which elements and content are aligned. Modular grids are great for ecommerce and listing pages, as rows are repeatable to accommodate browsing."
@@ -207,7 +207,7 @@
   },
   {
     "id": 5,
-    "image": "/images/blog9.jpg",
+    "image": "/blogs/images/blog9.jpg",
     "history": "Drew Cano • 1 Jan 2023",
     "title": "Our top 10 Javascript frameworks to use",
     "description": "JavaScript frameworks make development easy with extensive features and functionalities.",
@@ -232,19 +232,19 @@
     ],
     "sections": [
       {
-        "image": "/images/section13.webp",
+        "image": "/blogs/images/section13.webp",
         "title": "Definition: A grid is made up of columns, gutters, and margins that provide a structure for the layout of elements on a page.",
         "head": "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
         "description": "Modular grid extends the column grid further by adding rows to it. This intersection of columns and rows make up modules to which elements and content are aligned. Modular grids are great for ecommerce and listing pages, as rows are repeatable to accommodate browsing."
       },
       {
-        "image": "/images/section5.webp",
+        "image": "/blogs/images/section5.webp",
         "title": "Definition: A grid is made up of columns, gutters, and margins that provide a structure for the layout of elements on a page.",
         "head": "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
         "description": "Modular grid extends the column grid further by adding rows to it. This intersection of columns and rows make up modules to which elements and content are aligned. Modular grids are great for ecommerce and listing pages, as rows are repeatable to accommodate browsing."
       },
       {
-        "image": "/images/section18.webp",
+        "image": "/blogs/images/section18.webp",
         "title": "Definition: A grid is made up of columns, gutters, and margins that provide a structure for the layout of elements on a page.",
         "head": "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
         "description": "Modular grid extends the column grid further by adding rows to it. This intersection of columns and rows make up modules to which elements and content are aligned. Modular grids are great for ecommerce and listing pages, as rows are repeatable to accommodate browsing."
@@ -253,7 +253,7 @@
   },
   {
     "id": 6,
-    "image": "/images/blog10.jpg",
+    "image": "/blogs/images/blog10.jpg",
     "history": "Orlando Diggs • 1 Jan 2023",
     "title": "Podcast: Creating a better CX Community",
     "description": "Starting a community doesn’t need to be complicated, but how do you get started?",
@@ -273,19 +273,19 @@
     ],
     "sections": [
       {
-        "image": "/images/section8.png",
+        "image": "/blogs/images/section8.png",
         "title": "Definition: A grid is made up of columns, gutters, and margins that provide a structure for the layout of elements on a page.",
         "head": "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
         "description": "Modular grid extends the column grid further by adding rows to it. This intersection of columns and rows make up modules to which elements and content are aligned. Modular grids are great for ecommerce and listing pages, as rows are repeatable to accommodate browsing."
       },
       {
-        "image": "/images/section12.webp",
+        "image": "/blogs/images/section12.webp",
         "title": "Definition: A grid is made up of columns, gutters, and margins that provide a structure for the layout of elements on a page.",
         "head": "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
         "description": "Modular grid extends the column grid further by adding rows to it. This intersection of columns and rows make up modules to which elements and content are aligned. Modular grids are great for ecommerce and listing pages, as rows are repeatable to accommodate browsing."
       },
       {
-        "image": "/images/section16.webp",
+        "image": "/blogs/images/section16.webp",
         "title": "Definition: A grid is made up of columns, gutters, and margins that provide a structure for the layout of elements on a page.",
         "head": "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
         "description": "Modular grid extends the column grid further by adding rows to it. This intersection of columns and rows make up modules to which elements and content are aligned. Modular grids are great for ecommerce and listing pages, as rows are repeatable to accommodate browsing."
@@ -294,7 +294,7 @@
   },
   {
     "id": 7,
-    "image": "/images/blog11.webp",
+    "image": "/blogs/images/blog11.webp",
     "history": "Olivia Rhye • 1 Jan 2023",
     "title": "Grid system for better Design User Interface",
     "description": "A grid system is a design tool used to arrange content on a webpage. It is a series of vertical and horizontal.",
@@ -314,19 +314,19 @@
     ],
     "sections": [
       {
-        "image": "/images/section8.webp",
+        "image": "/blogs/images/section8.webp",
         "title": "Definition: A grid is made up of columns, gutters, and margins that provide a structure for the layout of elements on a page.",
         "head": "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
         "description": "Modular grid extends the column grid further by adding rows to it. This intersection of columns and rows make up modules to which elements and content are aligned. Modular grids are great for ecommerce and listing pages, as rows are repeatable to accommodate browsing."
       },
       {
-        "image": "/images/section9.png",
+        "image": "/blogs/images/section9.png",
         "title": "Definition: A grid is made up of columns, gutters, and margins that provide a structure for the layout of elements on a page.",
         "head": "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
         "description": "Modular grid extends the column grid further by adding rows to it. This intersection of columns and rows make up modules to which elements and content are aligned. Modular grids are great for ecommerce and listing pages, as rows are repeatable to accommodate browsing."
       },
       {
-        "image": "/images/section10.webp",
+        "image": "/blogs/images/section10.webp",
         "title": "Definition: A grid is made up of columns, gutters, and margins that provide a structure for the layout of elements on a page.",
         "head": "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
         "description": "Modular grid extends the column grid further by adding rows to it. This intersection of columns and rows make up modules to which elements and content are aligned. Modular grids are great for ecommerce and listing pages, as rows are repeatable to accommodate browsing."
@@ -335,7 +335,7 @@
   },
   {
     "id": 8,
-    "image": "/images/blog12.webp",
+    "image": "/blogs/images/blog12.webp",
     "history": "Olivia Rhye • 1 Jan 2023",
     "title": "Grid system for better Design User Interface",
     "description": "A grid system is a design tool used to arrange content on a webpage. It is a series of vertical and horizontal.",
@@ -355,19 +355,19 @@
     ],
     "sections": [
       {
-        "image": "/images/section11.webp",
+        "image": "/blogs/images/section11.webp",
         "title": "Definition: A grid is made up of columns, gutters, and margins that provide a structure for the layout of elements on a page.",
         "head": "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
         "description": "Modular grid extends the column grid further by adding rows to it. This intersection of columns and rows make up modules to which elements and content are aligned. Modular grids are great for ecommerce and listing pages, as rows are repeatable to accommodate browsing."
       },
       {
-        "image": "/images/section16.webp",
+        "image": "/blogs/images/section16.webp",
         "title": "Definition: A grid is made up of columns, gutters, and margins that provide a structure for the layout of elements on a page.",
         "head": "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
         "description": "Modular grid extends the column grid further by adding rows to it. This intersection of columns and rows make up modules to which elements and content are aligned. Modular grids are great for ecommerce and listing pages, as rows are repeatable to accommodate browsing."
       },
       {
-        "image": "/images/section19.webp",
+        "image": "/blogs/images/section19.webp",
         "title": "Definition: A grid is made up of columns, gutters, and margins that provide a structure for the layout of elements on a page.",
         "head": "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
         "description": "Modular grid extends the column grid further by adding rows to it. This intersection of columns and rows make up modules to which elements and content are aligned. Modular grids are great for ecommerce and listing pages, as rows are repeatable to accommodate browsing."
@@ -376,7 +376,7 @@
   },
   {
     "id": 9,
-    "image": "/images/blog13.webp",
+    "image": "/blogs/images/blog13.webp",
     "history": "Olivia Rhye • 1 Jan 2023",
     "title": "Grid system for better Design User Interface",
     "description": "A grid system is a design tool used to arrange content on a webpage. It is a series of vertical and horizontal.",
@@ -396,19 +396,19 @@
     ],
     "sections": [
       {
-        "image": "/images/section11.webp",
+        "image": "/blogs/images/section11.webp",
         "title": "Definition: A grid is made up of columns, gutters, and margins that provide a structure for the layout of elements on a page.",
         "head": "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
         "description": "Modular grid extends the column grid further by adding rows to it. This intersection of columns and rows make up modules to which elements and content are aligned. Modular grids are great for ecommerce and listing pages, as rows are repeatable to accommodate browsing."
       },
       {
-        "image": "/images/section12.webp",
+        "image": "/blogs/images/section12.webp",
         "title": "Definition: A grid is made up of columns, gutters, and margins that provide a structure for the layout of elements on a page.",
         "head": "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
         "description": "Modular grid extends the column grid further by adding rows to it. This intersection of columns and rows make up modules to which elements and content are aligned. Modular grids are great for ecommerce and listing pages, as rows are repeatable to accommodate browsing."
       },
       {
-        "image": "/images/section20.webp",
+        "image": "/blogs/images/section20.webp",
         "title": "Definition: A grid is made up of columns, gutters, and margins that provide a structure for the layout of elements on a page.",
         "head": "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
         "description": "Modular grid extends the column grid further by adding rows to it. This intersection of columns and rows make up modules to which elements and content are aligned. Modular grids are great for ecommerce and listing pages, as rows are repeatable to accommodate browsing."
@@ -417,7 +417,7 @@
   },
   {
     "id": 10,
-    "image": "/images/blog14.webp",
+    "image": "/blogs/images/blog14.webp",
     "history": "Olivia Rhye • 1 Jan 2023",
     "title": "Grid system for better Design User Interface",
     "description": "A grid system is a design tool used to arrange content on a webpage. It is a series of vertical and horizontal.",
@@ -437,19 +437,19 @@
     ],
     "sections": [
       {
-        "image": "/images/section14.webp",
+        "image": "/blogs/images/section14.webp",
         "title": "Definition: A grid is made up of columns, gutters, and margins that provide a structure for the layout of elements on a page.",
         "head": "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
         "description": "Modular grid extends the column grid further by adding rows to it. This intersection of columns and rows make up modules to which elements and content are aligned. Modular grids are great for ecommerce and listing pages, as rows are repeatable to accommodate browsing."
       },
       {
-        "image": "/images/section15.webp",
+        "image": "/blogs/images/section15.webp",
         "title": "Definition: A grid is made up of columns, gutters, and margins that provide a structure for the layout of elements on a page.",
         "head": "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
         "description": "Modular grid extends the column grid further by adding rows to it. This intersection of columns and rows make up modules to which elements and content are aligned. Modular grids are great for ecommerce and listing pages, as rows are repeatable to accommodate browsing."
       },
       {
-        "image": "/images/section18.webp",
+        "image": "/blogs/images/section18.webp",
         "title": "Definition: A grid is made up of columns, gutters, and margins that provide a structure for the layout of elements on a page.",
         "head": "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
         "description": "Modular grid extends the column grid further by adding rows to it. This intersection of columns and rows make up modules to which elements and content are aligned. Modular grids are great for ecommerce and listing pages, as rows are repeatable to accommodate browsing."
@@ -458,7 +458,7 @@
   },
   {
     "id": 11,
-    "image": "/images/blog15.webp",
+    "image": "/blogs/images/blog15.webp",
     "history": "Olivia Rhye • 1 Jan 2023",
     "title": "Grid system for better Design User Interface",
     "description": "A grid system is a design tool used to arrange content on a webpage. It is a series of vertical and horizontal.",
@@ -478,19 +478,19 @@
     ],
     "sections": [
       {
-        "image": "/images/section10.webp",
+        "image": "/blogs/images/section10.webp",
         "title": "Definition: A grid is made up of columns, gutters, and margins that provide a structure for the layout of elements on a page.",
         "head": "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
         "description": "Modular grid extends the column grid further by adding rows to it. This intersection of columns and rows make up modules to which elements and content are aligned. Modular grids are great for ecommerce and listing pages, as rows are repeatable to accommodate browsing."
       },
       {
-        "image": "/images/section9.png",
+        "image": "/blogs/images/section9.png",
         "title": "Definition: A grid is made up of columns, gutters, and margins that provide a structure for the layout of elements on a page.",
         "head": "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
         "description": "Modular grid extends the column grid further by adding rows to it. This intersection of columns and rows make up modules to which elements and content are aligned. Modular grids are great for ecommerce and listing pages, as rows are repeatable to accommodate browsing."
       },
       {
-        "image": "/images/section2.png",
+        "image": "/blogs/images/section2.png",
         "title": "Definition: A grid is made up of columns, gutters, and margins that provide a structure for the layout of elements on a page.",
         "head": "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
         "description": "Modular grid extends the column grid further by adding rows to it. This intersection of columns and rows make up modules to which elements and content are aligned. Modular grids are great for ecommerce and listing pages, as rows are repeatable to accommodate browsing."
@@ -499,7 +499,7 @@
   },
   {
     "id": 12,
-    "image": "/images/blog16.webp",
+    "image": "/blogs/images/blog16.webp",
     "history": "Olivia Rhye • 1 Jan 2023",
     "title": "Grid system for better Design User Interface",
     "description": "A grid system is a design tool used to arrange content on a webpage. It is a series of vertical and horizontal.",
@@ -519,19 +519,19 @@
     ],
     "sections": [
       {
-        "image": "/images/section11.webp",
+        "image": "/blogs/images/section11.webp",
         "title": "Definition: A grid is made up of columns, gutters, and margins that provide a structure for the layout of elements on a page.",
         "head": "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
         "description": "Modular grid extends the column grid further by adding rows to it. This intersection of columns and rows make up modules to which elements and content are aligned. Modular grids are great for ecommerce and listing pages, as rows are repeatable to accommodate browsing."
       },
       {
-        "image": "/images/section5.webp",
+        "image": "/blogs/images/section5.webp",
         "title": "Definition: A grid is made up of columns, gutters, and margins that provide a structure for the layout of elements on a page.",
         "head": "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
         "description": "Modular grid extends the column grid further by adding rows to it. This intersection of columns and rows make up modules to which elements and content are aligned. Modular grids are great for ecommerce and listing pages, as rows are repeatable to accommodate browsing."
       },
       {
-        "image": "/images/section3.webp",
+        "image": "/blogs/images/section3.webp",
         "title": "Definition: A grid is made up of columns, gutters, and margins that provide a structure for the layout of elements on a page.",
         "head": "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
         "description": "Modular grid extends the column grid further by adding rows to it. This intersection of columns and rows make up modules to which elements and content are aligned. Modular grids are great for ecommerce and listing pages, as rows are repeatable to accommodate browsing."
@@ -540,7 +540,7 @@
   },
   {
     "id": 13,
-    "image": "/images/blog17.webp",
+    "image": "/blogs/images/blog17.webp",
     "history": "Olivia Rhye • 1 Jan 2023",
     "title": "Grid system for better Design User Interface",
     "description": "A grid system is a design tool used to arrange content on a webpage. It is a series of vertical and horizontal.",
@@ -565,19 +565,19 @@
     ],
     "sections": [
       {
-        "image": "/images/section18.webp",
+        "image": "/blogs/images/section18.webp",
         "title": "Definition: A grid is made up of columns, gutters, and margins that provide a structure for the layout of elements on a page.",
         "head": "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
         "description": "Modular grid extends the column grid further by adding rows to it. This intersection of columns and rows make up modules to which elements and content are aligned. Modular grids are great for ecommerce and listing pages, as rows are repeatable to accommodate browsing."
       },
       {
-        "image": "/images/section5.webp",
+        "image": "/blogs/images/section5.webp",
         "title": "Definition: A grid is made up of columns, gutters, and margins that provide a structure for the layout of elements on a page.",
         "head": "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
         "description": "Modular grid extends the column grid further by adding rows to it. This intersection of columns and rows make up modules to which elements and content are aligned. Modular grids are great for ecommerce and listing pages, as rows are repeatable to accommodate browsing."
       },
       {
-        "image": "/images/section2.png",
+        "image": "/blogs/images/section2.png",
         "title": "Definition: A grid is made up of columns, gutters, and margins that provide a structure for the layout of elements on a page.",
         "head": "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
         "description": "Modular grid extends the column grid further by adding rows to it. This intersection of columns and rows make up modules to which elements and content are aligned. Modular grids are great for ecommerce and listing pages, as rows are repeatable to accommodate browsing."
@@ -586,7 +586,7 @@
   },
   {
     "id": 14,
-    "image": "/images/blog18.webp",
+    "image": "/blogs/images/blog18.webp",
     "history": "Olivia Rhye • 1 Jan 2023",
     "title": "Grid system for better Design User Interface",
     "description": "A grid system is a design tool used to arrange content on a webpage. It is a series of vertical and horizontal.",
@@ -611,19 +611,19 @@
     ],
     "sections": [
       {
-        "image": "/images/section17.webp",
+        "image": "/blogs/images/section17.webp",
         "title": "Definition: A grid is made up of columns, gutters, and margins that provide a structure for the layout of elements on a page.",
         "head": "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
         "description": "Modular grid extends the column grid further by adding rows to it. This intersection of columns and rows make up modules to which elements and content are aligned. Modular grids are great for ecommerce and listing pages, as rows are repeatable to accommodate browsing."
       },
       {
-        "image": "/images/section10.webp",
+        "image": "/blogs/images/section10.webp",
         "title": "Definition: A grid is made up of columns, gutters, and margins that provide a structure for the layout of elements on a page.",
         "head": "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
         "description": "Modular grid extends the column grid further by adding rows to it. This intersection of columns and rows make up modules to which elements and content are aligned. Modular grids are great for ecommerce and listing pages, as rows are repeatable to accommodate browsing."
       },
       {
-        "image": "/images/section6.webp",
+        "image": "/blogs/images/section6.webp",
         "title": "Definition: A grid is made up of columns, gutters, and margins that provide a structure for the layout of elements on a page.",
         "head": "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
         "description": "Modular grid extends the column grid further by adding rows to it. This intersection of columns and rows make up modules to which elements and content are aligned. Modular grids are great for ecommerce and listing pages, as rows are repeatable to accommodate browsing."
@@ -632,7 +632,7 @@
   },
   {
     "id": 15,
-    "image": "/images/blog19.webp",
+    "image": "/blogs/images/blog19.webp",
     "history": "Olivia Rhye • 1 Jan 2023",
     "title": "Grid system for better Design User Interface",
     "description": "A grid system is a design tool used to arrange content on a webpage. It is a series of vertical and horizontal.",
@@ -657,19 +657,19 @@
     ],
     "sections": [
       {
-        "image": "/images/section20.webp",
+        "image": "/blogs/images/section20.webp",
         "title": "Definition: A grid is made up of columns, gutters, and margins that provide a structure for the layout of elements on a page.",
         "head": "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
         "description": "Modular grid extends the column grid further by adding rows to it. This intersection of columns and rows make up modules to which elements and content are aligned. Modular grids are great for ecommerce and listing pages, as rows are repeatable to accommodate browsing."
       },
       {
-        "image": "/images/section14.webp",
+        "image": "/blogs/images/section14.webp",
         "title": "Definition: A grid is made up of columns, gutters, and margins that provide a structure for the layout of elements on a page.",
         "head": "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
         "description": "Modular grid extends the column grid further by adding rows to it. This intersection of columns and rows make up modules to which elements and content are aligned. Modular grids are great for ecommerce and listing pages, as rows are repeatable to accommodate browsing."
       },
       {
-        "image": "/images/section16.webp",
+        "image": "/blogs/images/section16.webp",
         "title": "Definition: A grid is made up of columns, gutters, and margins that provide a structure for the layout of elements on a page.",
         "head": "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
         "description": "Modular grid extends the column grid further by adding rows to it. This intersection of columns and rows make up modules to which elements and content are aligned. Modular grids are great for ecommerce and listing pages, as rows are repeatable to accommodate browsing."
@@ -678,7 +678,7 @@
   },
   {
     "id": 16,
-    "image": "/images/blog20.webp",
+    "image": "/blogs/images/blog20.webp",
     "history": "Olivia Rhye • 1 Jan 2023",
     "title": "Grid system for better Design User Interface",
     "description": "A grid system is a design tool used to arrange content on a webpage. It is a series of vertical and horizontal.",
@@ -698,19 +698,19 @@
     ],
     "sections": [
       {
-        "image": "/images/section18.webp",
+        "image": "/blogs/images/section18.webp",
         "title": "Definition: A grid is made up of columns, gutters, and margins that provide a structure for the layout of elements on a page.",
         "head": "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
         "description": "Modular grid extends the column grid further by adding rows to it. This intersection of columns and rows make up modules to which elements and content are aligned. Modular grids are great for ecommerce and listing pages, as rows are repeatable to accommodate browsing."
       },
       {
-        "image": "/images/section13.webp",
+        "image": "/blogs/images/section13.webp",
         "title": "Definition: A grid is made up of columns, gutters, and margins that provide a structure for the layout of elements on a page.",
         "head": "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
         "description": "Modular grid extends the column grid further by adding rows to it. This intersection of columns and rows make up modules to which elements and content are aligned. Modular grids are great for ecommerce and listing pages, as rows are repeatable to accommodate browsing."
       },
       {
-        "image": "/images/section19.webp",
+        "image": "/blogs/images/section19.webp",
         "title": "Definition: A grid is made up of columns, gutters, and margins that provide a structure for the layout of elements on a page.",
         "head": "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
         "description": "Modular grid extends the column grid further by adding rows to it. This intersection of columns and rows make up modules to which elements and content are aligned. Modular grids are great for ecommerce and listing pages, as rows are repeatable to accommodate browsing."
@@ -719,7 +719,7 @@
   },
   {
     "id": 17,
-    "image": "/images/blog1.jpg",
+    "image": "/blogs/images/blog1.jpg",
     "history": "Olivia Rhye • 1 Jan 2023",
     "title": "UX review presentations",
     "description": "How do you create compelling presentations that wow your colleagues and impress your managers?",
@@ -744,19 +744,19 @@
     ],
     "sections": [
       {
-        "image": "/images/section18.webp",
+        "image": "/blogs/images/section18.webp",
         "title": "Definition: A grid is made up of columns, gutters, and margins that provide a structure for the layout of elements on a page.",
         "head": "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
         "description": "Modular grid extends the column grid further by adding rows to it. This intersection of columns and rows make up modules to which elements and content are aligned. Modular grids are great for ecommerce and listing pages, as rows are repeatable to accommodate browsing."
       },
       {
-        "image": "/images/section7.webp",
+        "image": "/blogs/images/section7.webp",
         "title": "Definition: A grid is made up of columns, gutters, and margins that provide a structure for the layout of elements on a page.",
         "head": "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
         "description": "Modular grid extends the column grid further by adding rows to it. This intersection of columns and rows make up modules to which elements and content are aligned. Modular grids are great for ecommerce and listing pages, as rows are repeatable to accommodate browsing."
       },
       {
-        "image": "/images/section1.png",
+        "image": "/blogs/images/section1.png",
         "title": "Definition: A grid is made up of columns, gutters, and margins that provide a structure for the layout of elements on a page.",
         "head": "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
         "description": "Modular grid extends the column grid further by adding rows to it. This intersection of columns and rows make up modules to which elements and content are aligned. Modular grids are great for ecommerce and listing pages, as rows are repeatable to accommodate browsing."
@@ -765,7 +765,7 @@
   },
   {
     "id": 18,
-    "image": "/images/blog2.jpg",
+    "image": "/blogs/images/blog2.jpg",
     "history": "Phoenix Baker • 1 Jan 2023",
     "title": "Migrating to Linear 101",
     "description": "Linear helps streamline software projects, sprints, tasks, and bug tracking. Here’s how to get...",
@@ -785,19 +785,19 @@
     ],
     "sections": [
       {
-        "image": "/images/section11.webp",
+        "image": "/blogs/images/section11.webp",
         "title": "Definition: A grid is made up of columns, gutters, and margins that provide a structure for the layout of elements on a page.",
         "head": "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
         "description": "Modular grid extends the column grid further by adding rows to it. This intersection of columns and rows make up modules to which elements and content are aligned. Modular grids are great for ecommerce and listing pages, as rows are repeatable to accommodate browsing."
       },
       {
-        "image": "/images/section13.webp",
+        "image": "/blogs/images/section13.webp",
         "title": "Definition: A grid is made up of columns, gutters, and margins that provide a structure for the layout of elements on a page.",
         "head": "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
         "description": "Modular grid extends the column grid further by adding rows to it. This intersection of columns and rows make up modules to which elements and content are aligned. Modular grids are great for ecommerce and listing pages, as rows are repeatable to accommodate browsing."
       },
       {
-        "image": "/images/section8.png",
+        "image": "/blogs/images/section8.png",
         "title": "Definition: A grid is made up of columns, gutters, and margins that provide a structure for the layout of elements on a page.",
         "head": "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
         "description": "Modular grid extends the column grid further by adding rows to it. This intersection of columns and rows make up modules to which elements and content are aligned. Modular grids are great for ecommerce and listing pages, as rows are repeatable to accommodate browsing."
@@ -806,7 +806,7 @@
   },
   {
     "id": 19,
-    "image": "/images/blog3.jpg",
+    "image": "/blogs/images/blog3.jpg",
     "history": "Lana Steiner • 1 Jan 2023",
     "title": "Building your API Stack",
     "description": "The rise of RESTful APIs has been met by a rise in tools for creating, testing, and manag...",
@@ -826,19 +826,19 @@
     ],
     "sections": [
       {
-        "image": "/images/section10.webp",
+        "image": "/blogs/images/section10.webp",
         "title": "Definition: A grid is made up of columns, gutters, and margins that provide a structure for the layout of elements on a page.",
         "head": "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
         "description": "Modular grid extends the column grid further by adding rows to it. This intersection of columns and rows make up modules to which elements and content are aligned. Modular grids are great for ecommerce and listing pages, as rows are repeatable to accommodate browsing."
       },
       {
-        "image": "/images/section14.webp",
+        "image": "/blogs/images/section14.webp",
         "title": "Definition: A grid is made up of columns, gutters, and margins that provide a structure for the layout of elements on a page.",
         "head": "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
         "description": "Modular grid extends the column grid further by adding rows to it. This intersection of columns and rows make up modules to which elements and content are aligned. Modular grids are great for ecommerce and listing pages, as rows are repeatable to accommodate browsing."
       },
       {
-        "image": "/images/section15.webp",
+        "image": "/blogs/images/section15.webp",
         "title": "Definition: A grid is made up of columns, gutters, and margins that provide a structure for the layout of elements on a page.",
         "head": "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
         "description": "Modular grid extends the column grid further by adding rows to it. This intersection of columns and rows make up modules to which elements and content are aligned. Modular grids are great for ecommerce and listing pages, as rows are repeatable to accommodate browsing."
@@ -847,7 +847,7 @@
   },
   {
     "id": 20,
-    "image": "/images/blog4.jpg",
+    "image": "/blogs/images/blog4.jpg",
     "history": "Olivia Rhye • 1 Jan 2023",
     "title": "Grid system for better Design User Interface",
     "description": "A grid system is a design tool used to arrange content on a webpage. It is a series of vertical and horizontal lines that create a matrix of intersecting points, which can be used to align and organize page elements. Grid systems are used to create a consistent look and feel across a website, and can help to make the layout more visually appealing and easier to navigate.",
@@ -867,55 +867,55 @@
     ],
     "sections": [
       {
-        "image": "/images/section1.png",
+        "image": "/blogs/images/section1.png",
         "title": "Definition: A grid is made up of columns, gutters, and margins that provide a structure for the layout of elements on a page.",
         "head": "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
         "description": "Modular grid extends the column grid further by adding rows to it. This intersection of columns and rows make up modules to which elements and content are aligned. Modular grids are great for ecommerce and listing pages, as rows are repeatable to accommodate browsing."
       },
       {
-        "image": "/images/section2.png",
+        "image": "/blogs/images/section2.png",
         "title": "Definition: A grid is made up of columns, gutters, and margins that provide a structure for the layout of elements on a page.",
         "head": "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
         "description": "Modular grid extends the column grid further by adding rows to it. This intersection of columns and rows make up modules to which elements and content are aligned. Modular grids are great for ecommerce and listing pages, as rows are repeatable to accommodate browsing."
       },
       {
-        "image": "/images/section3.webp",
+        "image": "/blogs/images/section3.webp",
         "title": "Definition: A grid is made up of columns, gutters, and margins that provide a structure for the layout of elements on a page.",
         "head": "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
         "description": "Modular grid extends the column grid further by adding rows to it. This intersection of columns and rows make up modules to which elements and content are aligned. Modular grids are great for ecommerce and listing pages, as rows are repeatable to accommodate browsing."
       },
       {
-        "image": "/images/section4.webp",
+        "image": "/blogs/images/section4.webp",
         "title": "Definition: A grid is made up of columns, gutters, and margins that provide a structure for the layout of elements on a page.",
         "head": "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
         "description": "Modular grid extends the column grid further by adding rows to it. This intersection of columns and rows make up modules to which elements and content are aligned. Modular grids are great for ecommerce and listing pages, as rows are repeatable to accommodate browsing."
       },
       {
-        "image": "/images/section5.webp",
+        "image": "/blogs/images/section5.webp",
         "title": "Definition: A grid is made up of columns, gutters, and margins that provide a structure for the layout of elements on a page.",
         "head": "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
         "description": "Modular grid extends the column grid further by adding rows to it. This intersection of columns and rows make up modules to which elements and content are aligned. Modular grids are great for ecommerce and listing pages, as rows are repeatable to accommodate browsing."
       },
       {
-        "image": "/images/section6.webp",
+        "image": "/blogs/images/section6.webp",
         "title": "Definition: A grid is made up of columns, gutters, and margins that provide a structure for the layout of elements on a page.",
         "head": "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
         "description": "Modular grid extends the column grid further by adding rows to it. This intersection of columns and rows make up modules to which elements and content are aligned. Modular grids are great for ecommerce and listing pages, as rows are repeatable to accommodate browsing."
       },
       {
-        "image": "/images/section7.webp",
+        "image": "/blogs/images/section7.webp",
         "title": "Definition: A grid is made up of columns, gutters, and margins that provide a structure for the layout of elements on a page.",
         "head": "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
         "description": "Modular grid extends the column grid further by adding rows to it. This intersection of columns and rows make up modules to which elements and content are aligned. Modular grids are great for ecommerce and listing pages, as rows are repeatable to accommodate browsing."
       },
       {
-        "image": "/images/section8.png",
+        "image": "/blogs/images/section8.png",
         "title": "Definition: A grid is made up of columns, gutters, and margins that provide a structure for the layout of elements on a page.",
         "head": "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
         "description": "Modular grid extends the column grid further by adding rows to it. This intersection of columns and rows make up modules to which elements and content are aligned. Modular grids are great for ecommerce and listing pages, as rows are repeatable to accommodate browsing."
       },
       {
-        "image": "/images/section9.png",
+        "image": "/blogs/images/section9.png",
         "title": "Definition: A grid is made up of columns, gutters, and margins that provide a structure for the layout of elements on a page.",
         "head": "There are three common grid types used in websites and interfaces: column grid, modular grid, and hierarchical grid.",
         "description": "Modular grid extends the column grid further by adding rows to it. This intersection of columns and rows make up modules to which elements and content are aligned. Modular grids are great for ecommerce and listing pages, as rows are repeatable to accommodate browsing."
