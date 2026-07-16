@@ -26,7 +26,7 @@ A modern and responsive blog application built with React, TypeScript, and Tailw
 - Vite
 - TypeScript
 - Tailwind CSS
-- State Manegment (Redux Toolkit)
+- State Management (Redux Toolkit)
 - React Router DOM
 - React Icons
 
