@@ -4,14 +4,15 @@ A modern and responsive blog application built with React, TypeScript, and Tailw
 
 ---
 
-## Features
+## 🚀 Features
 
 - Display latest blog posts.
 - Browse all blog posts with pagination.
+- Dynamic blog details page.
+- Display related blog posts.
+- Multiple categories for each article.
 - Dark / Light mode.
 - Fully responsive design.
-- Dynamic blog details page.
-- Multiple categories for each article.
 - Fast development using Vite.
 - Reusable React components.
 - State management using Redux Toolkit.
@@ -80,12 +81,12 @@ The homepage displays the latest blog posts with different card layouts to highl
 
 ### Blog Details
 
-Each article contains:
+Each article includes:
 
-- Full description
+- Full article content
 - Categories
 - Multiple content sections
-- Images
+- Related blog recommendations
 
 ### Theme
 
